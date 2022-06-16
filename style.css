@@ -1,0 +1,22 @@
+.heading
+{
+    font-size:25px;
+    width:100%;
+    margin:0;
+    color: darkblue;
+}
+.note
+{
+    font-size: 23;
+}
+#Song_Name
+{
+    font-size: 19;
+}
+body
+{
+    background-image:url("Music.webp");
+    background-size:cover;
+    font-family: cursive;
+   
+}
