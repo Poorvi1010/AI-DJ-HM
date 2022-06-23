@@ -20,3 +20,17 @@ body
     font-family: cursive;
    
 }
+
+canvas
+{
+ border-radius: 20px;
+ border:5px solid white;
+ margin-top: 140px;
+}
+
+.play_button
+{
+width:130px;
+font-size: 22px;
+
+}
